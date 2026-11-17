@@ -97,17 +97,7 @@ window.PORTFOLIO_DATA = {
           "kind": "board"
         },
         {
-          "src": "assets/portfolio/Miniverse_010.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
           "src": "assets/portfolio/Miniverse_02.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/Miniverse_03.webp",
           "caption": "",
           "kind": "board"
         },
@@ -127,89 +117,22 @@ window.PORTFOLIO_DATA = {
           "kind": "board"
         },
         {
+          "src": "assets/portfolio/Miniverse_03.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
           "src": "assets/portfolio/Miniverse_08.webp",
           "caption": "",
           "kind": "board"
         },
         {
+          "src": "assets/portfolio/Miniverse_010.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
           "src": "assets/portfolio/Miniverse_09.webp",
-          "caption": "",
-          "kind": "board"
-        }
-      ],
-      "archive": false
-    },
-    {
-      "id": "baby-born",
-      "title": "Baby Born Surprise",
-      "subtitle": "Dolls, soft accessories & character assortments",
-      "category": "Dolls",
-      "company": "MGA Entertainment",
-      "description": "Character and soft-goods concepts for Baby Born Surprise, including collectible dolls, pets and mini accessories.",
-      "role": "Doll design · Soft goods · Pattern & assortment development",
-      "images": [
-        {
-          "src": "assets/portfolio/BBS_Page_09.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_010.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_011.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_012_1_.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_01.webp",
-          "caption": "",
-          "kind": "hero"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_02.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_04.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_03.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_05.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_06.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_07.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_08.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/BBS_Page_013_1_.webp",
           "caption": "",
           "kind": "board"
         }
@@ -228,15 +151,15 @@ window.PORTFOLIO_DATA = {
         {
           "src": "assets/portfolio/LOL_Page_02.webp",
           "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/LOL_Page_01.webp",
-          "caption": "",
           "kind": "hero"
         },
         {
           "src": "assets/portfolio/LOL_Page_03.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/LOL_Page_01.webp",
           "caption": "",
           "kind": "board"
         },
@@ -272,6 +195,83 @@ window.PORTFOLIO_DATA = {
         },
         {
           "src": "assets/portfolio/LOL_Page_1_07.webp",
+          "caption": "",
+          "kind": "board"
+        }
+      ],
+      "archive": false
+    },
+    {
+      "id": "baby-born",
+      "title": "Baby Born Surprise",
+      "subtitle": "Dolls, soft accessories & character assortments",
+      "category": "Dolls",
+      "company": "MGA Entertainment",
+      "description": "Character and soft-goods concepts for Baby Born Surprise, including collectible dolls, pets and mini accessories.",
+      "role": "Doll design · Soft goods · Pattern & assortment development",
+      "images": [
+        {
+          "src": "assets/portfolio/BBS_Page_04.webp",
+          "caption": "",
+          "kind": "hero"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_01.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_02.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_03.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_09.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_010.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_011.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_012_1_.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_05.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_06.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_07.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_08.webp",
+          "caption": "",
+          "kind": "board"
+        },
+        {
+          "src": "assets/portfolio/BBS_Page_013_1_.webp",
           "caption": "",
           "kind": "board"
         }
@@ -327,7 +327,7 @@ window.PORTFOLIO_DATA = {
     },
     {
       "id": "hasbro-plush",
-      "title": "Hasbro Plush & Character Design",
+      "title": "Hasbro Plush Team",
       "subtitle": "FurReal, Littlest Pet Shop & UglyDolls",
       "category": "Plush",
       "company": "Hasbro",
@@ -620,17 +620,17 @@ window.PORTFOLIO_DATA = {
       "role": "Illustration · Visual development",
       "images": [
         {
+          "src": "assets/portfolio/sketch_02.webp",
+          "caption": "",
+          "kind": "hero"
+        },
+        {
           "src": "assets/portfolio/sketch01.webp",
           "caption": "",
           "kind": "board"
         },
         {
           "src": "assets/portfolio/sketch03.webp",
-          "caption": "",
-          "kind": "board"
-        },
-        {
-          "src": "assets/portfolio/sketch_02.webp",
           "caption": "",
           "kind": "board"
         },
@@ -652,7 +652,7 @@ window.PORTFOLIO_DATA = {
         {
           "src": "assets/portfolio/Sketch_01_sm.webp",
           "caption": "",
-          "kind": "hero"
+          "kind": "board"
         },
         {
           "src": "assets/portfolio/Sketch_02_sm.webp",
@@ -670,7 +670,7 @@ window.PORTFOLIO_DATA = {
           "kind": "board"
         }
       ],
-      "archive": true
+      "archive": false
     },
     {
       "id": "jewelry",
